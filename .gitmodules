@@ -4,4 +4,4 @@
 
 [submodule "cmake"]
 	path = cmake
-	url = ../cmake-modules.git
+	url = ../fedem-cmake-modules.git
